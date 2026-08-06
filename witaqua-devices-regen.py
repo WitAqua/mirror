@@ -17,25 +17,25 @@ except KeyError:
     print("Please set the GHUSER and GHTOKEN environment variables")
     exit(1)
 
-orgName = "LineageOS"
+orgName = "WitAqua-Devices"
 org = Github(u, p).get_user(orgName)
 
-file = open("los-default.xml", "w")
+file = open("default.xml", "w")
 file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
-file.write('  <remote  name="github"\n')
-file.write('           fetch=".." />\n')
+file.write('  <remote  name="witaqua-devices"\n')
+file.write('           fetch="https://github.com/WitAqua-Devices/" />\n')
 file.write("\n")
 file.write('  <default revision="main"\n')
-file.write('           remote="github"\n')
+file.write('           remote="witaqua-devices"\n')
 file.write('           sync-j="4" />\n')
 file.write("\n")
 
 repos = []
 
 for repo in org.get_repos():
-    repos.append(repo.full_name)
+    repos.append(repo.name)
 
 for repo in sorted(repos):
     file.write('  <project name="' + repo + '" />\n')
