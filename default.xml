@@ -45,8 +45,10 @@
   <project name="device_samsung_gts4lvwifi" />
   <project name="device_sony_pdx203" />
   <project name="device_sony_pdx206" />
+  <project name="device_sony_pdx213" />
   <project name="device_sony_pdx214" />
   <project name="device_sony_pdx215" />
+  <project name="device_sony_sm6350-common" />
   <project name="device_sony_sm8250-common" />
   <project name="device_sony_sm8350-common" />
   <project name="device_xiaomi_dipper" />
@@ -95,8 +97,10 @@
   <project name="kernel_nvidia_nvidia-nx" />
   <project name="kernel_nvidia_wireguard" />
   <project name="kernel_oneplus_sm8350" />
+  <project name="kernel_qcom_sm6350" />
   <project name="kernel_rakuten_msm8937" />
   <project name="kernel_samsung_sdm670" />
+  <project name="kernel_sony_sm6350" />
   <project name="kernel_sony_sm8250" />
   <project name="kernel_sony_sm8350" />
   <project name="kernel_xiaomi_nabu" />
