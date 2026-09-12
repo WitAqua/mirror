@@ -29,7 +29,7 @@
   <project name="device_google_shusky" />
   <project name="device_google_zuma" />
   <project name="device_lge_joan-common" />
-  <project name="device_lge_l01k" />
+  <project name="device_lge_joan_jp" />
   <project name="device_mediatek_sepolicy_vndr" />
   <project name="device_motorola_eqe" />
   <project name="device_nintendo_nx" />
@@ -51,6 +51,7 @@
   <project name="device_sony_sm6350-common" />
   <project name="device_sony_sm8250-common" />
   <project name="device_sony_sm8350-common" />
+  <project name="device_xiaomi_chime" />
   <project name="device_xiaomi_dipper" />
   <project name="device_xiaomi_garnet" />
   <project name="device_xiaomi_marble" />
@@ -84,7 +85,9 @@
   <project name="hardware_samsung-extra_interfaces" />
   <project name="hardware_samsung_slsi_nfc" />
   <project name="hardware_sony" />
+  <project name="hardware_sony_timekeep" />
   <project name="hardware_xiaomi" />
+  <project name="kernel_fcnt_fuji_manifest" />
   <project name="kernel_google_msm-4.9" />
   <project name="kernel_lge_msm8998" />
   <project name="kernel_motorola_sm7550" />
@@ -103,7 +106,7 @@
   <project name="kernel_sony_sm6350" />
   <project name="kernel_sony_sm8250" />
   <project name="kernel_sony_sm8350" />
-  <project name="kernel_xiaomi_nabu" />
+  <project name="kernel_xiaomi_chime" />
   <project name="kernel_xiaomi_sdm845" />
   <project name="kernel_xiaomi_sm6225" />
   <project name="kernel_xiaomi_sm7435" />
@@ -111,5 +114,6 @@
   <project name="kernel_xiaomi_sm7435-modules" />
   <project name="kernel_xiaomi_sm8350" />
   <project name="kernel_xiaomi_sm8450" />
+  <project name="packages_apps_FCNTParts" />
   <project name="prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" />
 </manifest>
