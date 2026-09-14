@@ -8,6 +8,10 @@
            remote="witaqua-devices"
            sync-j="4" />
 
+  <project name="android_device_xiaomi_lavender" />
+  <project name="android_device_xiaomi_sdm660-common" />
+  <project name="android_hardware_qcom-caf_audio" />
+  <project name="android_kernel_xiaomi_sdm660" />
   <project name="device_fcnt_fuji" />
   <project name="device_fcnt_fuji-kernel" />
   <project name="device_fcnt_itc" />
@@ -31,7 +35,10 @@
   <project name="device_lge_joan-common" />
   <project name="device_lge_joan_jp" />
   <project name="device_mediatek_sepolicy_vndr" />
+  <project name="device_motorola_bangkk" />
   <project name="device_motorola_eqe" />
+  <project name="device_motorola_eqe-old" />
+  <project name="device_motorola_sm6375-common" />
   <project name="device_nintendo_nx" />
   <project name="device_nintendo_nx_tab" />
   <project name="device_nvidia_sepolicy" />
@@ -43,12 +50,15 @@
   <project name="device_realme_lunaa" />
   <project name="device_samsung_gts4lv-common" />
   <project name="device_samsung_gts4lvwifi" />
+  <project name="device_sony_bahamut" />
+  <project name="device_sony_griffin" />
   <project name="device_sony_pdx203" />
   <project name="device_sony_pdx206" />
   <project name="device_sony_pdx213" />
   <project name="device_sony_pdx214" />
   <project name="device_sony_pdx215" />
   <project name="device_sony_sm6350-common" />
+  <project name="device_sony_sm8150-common" />
   <project name="device_sony_sm8250-common" />
   <project name="device_sony_sm8350-common" />
   <project name="device_xiaomi_chime" />
@@ -90,6 +100,7 @@
   <project name="kernel_fcnt_fuji_manifest" />
   <project name="kernel_google_msm-4.9" />
   <project name="kernel_lge_msm8998" />
+  <project name="kernel_motorola_sm6375" />
   <project name="kernel_motorola_sm7550" />
   <project name="kernel_motorola_sm7550-devicetrees" />
   <project name="kernel_motorola_sm7550-modules" />
@@ -101,9 +112,11 @@
   <project name="kernel_nvidia_wireguard" />
   <project name="kernel_oneplus_sm8350" />
   <project name="kernel_qcom_sm6350" />
+  <project name="kernel_qcom_sm8150" />
   <project name="kernel_rakuten_msm8937" />
   <project name="kernel_samsung_sdm670" />
   <project name="kernel_sony_sm6350" />
+  <project name="kernel_sony_sm8150" />
   <project name="kernel_sony_sm8250" />
   <project name="kernel_sony_sm8350" />
   <project name="kernel_xiaomi_chime" />
@@ -112,8 +125,12 @@
   <project name="kernel_xiaomi_sm7435" />
   <project name="kernel_xiaomi_sm7435-devicetrees" />
   <project name="kernel_xiaomi_sm7435-modules" />
+  <project name="kernel_xiaomi_sm8150" />
   <project name="kernel_xiaomi_sm8350" />
   <project name="kernel_xiaomi_sm8450" />
+  <project name="kernel_xiaomi_sm8450-modules" />
   <project name="packages_apps_FCNTParts" />
   <project name="prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" />
+  <project name="vendor_fcnt_itc" />
+  <project name="vendor_fcnt_itc-firmware" />
 </manifest>
