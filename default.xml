@@ -56,6 +56,7 @@
   <project name="device_sony_sm8350-common" />
   <project name="device_xiaomi_chime" />
   <project name="device_xiaomi_dipper" />
+  <project name="device_xiaomi_diting" />
   <project name="device_xiaomi_garnet" />
   <project name="device_xiaomi_marble" />
   <project name="device_xiaomi_miuicamera-garnet" />
@@ -120,6 +121,8 @@
   <project name="kernel_xiaomi_sm8150" />
   <project name="kernel_xiaomi_sm8350" />
   <project name="kernel_xiaomi_sm8450" />
+  <project name="kernel_xiaomi_sm8450-devicetrees" />
+  <project name="kernel_xiaomi_sm8450-modules" />
   <project name="packages_apps_FCNTParts" />
   <project name="prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3" />
 </manifest>
