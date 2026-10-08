@@ -63,6 +63,7 @@
   <project name="device_xiaomi_nabu" />
   <project name="device_xiaomi_renoir" />
   <project name="device_xiaomi_sdm845-common" />
+  <project name="device_xiaomi_sky" />
   <project name="device_xiaomi_sm8350-common" />
   <project name="device_xiaomi_sm8450-common" />
   <project name="device_xiaomi_spes" />
@@ -114,6 +115,8 @@
   <project name="kernel_sony_sm8350" />
   <project name="kernel_xiaomi_chime" />
   <project name="kernel_xiaomi_sdm845" />
+  <project name="kernel_xiaomi_sm4450" />
+  <project name="kernel_xiaomi_sm4450-modules" />
   <project name="kernel_xiaomi_sm6225" />
   <project name="kernel_xiaomi_sm7435" />
   <project name="kernel_xiaomi_sm7435-devicetrees" />
